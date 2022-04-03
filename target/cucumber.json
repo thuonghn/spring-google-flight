@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-04-03T07:38:46.583Z",
+        "start_timestamp": "2022-04-03T10:23:37.123Z",
         "line": 4,
         "name": "I should sections in Flight page",
         "description": "",
@@ -11,7 +11,7 @@
         "after": [
           {
             "result": {
-              "duration": 551308800,
+              "duration": 275157800,
               "status": "passed"
             },
             "match": {
@@ -24,7 +24,7 @@
         "steps": [
           {
             "result": {
-              "duration": 39911500,
+              "duration": 34955100,
               "status": "passed"
             },
             "line": 5,
@@ -35,7 +35,7 @@
             "after": [
               {
                 "result": {
-                  "duration": 17487500,
+                  "duration": 28257600,
                   "status": "passed"
                 },
                 "match": {
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 3368162700,
+              "duration": 3958659600,
               "status": "passed"
             },
             "line": 6,
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 126849400,
+              "duration": 357226500,
               "status": "passed"
             },
             "line": 7,
@@ -80,7 +80,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 812500,
                   "status": "passed"
                 },
                 "match": {
@@ -98,7 +97,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-04-03T07:38:46.583Z",
+        "start_timestamp": "2022-04-03T10:23:37.123Z",
         "line": 10,
         "name": "I should sections in Flight page",
         "description": "",
@@ -106,7 +105,7 @@
         "after": [
           {
             "result": {
-              "duration": 350500000,
+              "duration": 290348500,
               "status": "passed"
             },
             "match": {
@@ -119,7 +118,7 @@
         "steps": [
           {
             "result": {
-              "duration": 39911500,
+              "duration": 34955100,
               "status": "passed"
             },
             "line": 11,
@@ -130,7 +129,7 @@
             "after": [
               {
                 "result": {
-                  "duration": 17487500,
+                  "duration": 27258700,
                   "status": "passed"
                 },
                 "match": {
@@ -142,7 +141,7 @@
           },
           {
             "result": {
-              "duration": 3680597400,
+              "duration": 4269665500,
               "status": "passed"
             },
             "line": 12,
@@ -164,7 +163,7 @@
           },
           {
             "result": {
-              "duration": 110126300,
+              "duration": 310021400,
               "status": "passed"
             },
             "line": 13,
