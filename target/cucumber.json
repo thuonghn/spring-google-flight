@@ -1,0 +1,202 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-04-03T07:38:46.583Z",
+        "line": 4,
+        "name": "I should sections in Flight page",
+        "description": "",
+        "id": "google-flight-feature;i-should-sections-in-flight-page",
+        "after": [
+          {
+            "result": {
+              "duration": 551308800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 39911500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I check which environment",
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.FlightStep.selectEnvironment()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 17487500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3368162700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I access Flight page",
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.FlightStep.accessFlightPage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 126849400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see sections on left",
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.FlightStep.validateLeftSections()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 812500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TC01"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-03T07:38:46.583Z",
+        "line": 10,
+        "name": "I should sections in Flight page",
+        "description": "",
+        "id": "google-flight-feature;i-should-sections-in-flight-page",
+        "after": [
+          {
+            "result": {
+              "duration": 350500000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 39911500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I check which environment",
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.FlightStep.selectEnvironment()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 17487500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3680597400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I access Flight page",
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.FlightStep.accessFlightPage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 110126300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see sections on left",
+            "match": {
+              "location": "spring.boot.google.flight.cucumber.steps.FlightStep.validateLeftSections()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "spring.boot.google.flight.cucumber.steps.CucumberHooks.afterStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TC02"
+          }
+        ]
+      }
+    ],
+    "name": "Google Flight feature",
+    "description": "",
+    "id": "google-flight-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/spring/boot/google/flight/cucumber/features/flight.feature",
+    "tags": []
+  }
+]

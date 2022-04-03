@@ -1,0 +1,15 @@
+spring\boot\google\flight\page\FlightPage.class
+spring\boot\google\flight\Application.class
+spring\boot\google\flight\spring\scope\BrowserScope.class
+spring\boot\google\flight\spring\service\ScreenshotService.class
+spring\boot\google\flight\spring\config\RemoteWebDriverConfig.class
+spring\boot\google\flight\page\Base.class
+spring\boot\google\flight\spring\annotation\Page.class
+spring\boot\google\flight\spring\scope\BrowserScopePostProcessor.class
+spring\boot\google\flight\spring\annotation\LazyConfiguration.class
+spring\boot\google\flight\spring\annotation\ThreadScopeBean.class
+spring\boot\google\flight\spring\config\WebDriverWaitConfig.class
+spring\boot\google\flight\spring\config\WebDriverConfig.class
+spring\boot\google\flight\spring\annotation\TakeScreenshot.class
+spring\boot\google\flight\spring\annotation\LazyAutowired.class
+spring\boot\google\flight\spring\scope\BrowserScopeConfig.class
